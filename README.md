@@ -1,15 +1,11 @@
 # UI / UX Developer / Web Developer - 5+ Years
 
 # Experience Summary
-Having around 4 years of experience in IT industry specializing in Web Development.<br/>
-Having around 1.6 years of experience in designing industry working with print and digital media.<br/>
-Expertise skills in Web Development using HTML5, CSS3, Sass, ES6, JavaScript, jQuery, PHP.<br/>
-Having hands on experience in AngularJS.<br/>
-Experienced in handling database systems using MySQL.<br/>
-Having excellent knowledge of CMS like WordPress and Frameworks like Bootstrap.<br/>
-Having knowledge on Git.<br/>
-Having excellent knowledge on Search Engine Optimization (SEO), Google Analytics, Webmaster Tools.<br/>
-Skilled with Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
+Having around 4 years of experience in Web Development.<br/>
+Having around 1.6 years of experience in designing industry.<br/>
+HTML5, CSS3, Sass, JavaScript, jQuery, AngularJS (1.x), ES6, Bootstrap, WordPress, PHP, MySQL, Git.<br/>
+Search Engine Optimization (SEO), Google Analytics, Webmaster Tools.<br/>
+Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
 A highly motivated team player with an ability to quickly adapt to new environments and workload and delivering solutions as an individual and as part of a team.<br/>
 Possess good analytical, problem-solving skills, ability to meet deadlines and work on multiple projects.<br/>
@@ -32,15 +28,22 @@ Nov 2011 - July 2013
 www.cookbooth.com
 <br/>My role was to create the UI using AngularJS (version used 1.x), HTML5, CSS3, jQuery and Bootstrap.<br/><br/>
 www.phatbuddhawear.com
-<br/>This project was an E-commerce website built with HTML, CSS, Bootstrap, jQuery. My Role was to create frontend.<br/><br/>
-www.davidlernerny.com
-<br/>This project was an E-commerce website built with HTML, CSS, Bootstrap, jQuery. My Role was to create frontend.<br/><br/>
+<br/>This project was an E-commerce website built with HTML5, CSS3, Bootstrap, jQuery. My Role was to create frontend.<br/><br/>
 www.linesheetmaker.com
 <br/>This project was a web app built with PHP, MySQL, HTML, CSS, javascript, jQuery. My role was to create the complete frontend and some sections of backend as well.<br/><br/>
 www.apt212.com
-<br/>My role is to create the front-end using HTML, CSS, jQuery.<br/><br/>
+<br/>This project was built with ASP.NET. My role is to create the front-end using HTML, CSS, jQuery.<br/><br/>
 www.zyoin.com
-<br/>This project is been created with WordPress and bootstrap. My role was to build this site end to end.<br/><br/>
+<br/>This project is been created with WordPress with partial usage of bootstrap. This was my previous company’s website. My role was to build this site end to end.<br/><br/>
+www.davidlernerny.com
+<br/>This project was an E-commerce website built with HTML5, CSS3, javascript, jQuery, PHP, MySql, Shopify and Bootstrap. My role was to create the frontend.<br/><br/>
+www.speechzonenyc.com
+<br/>This project was a core PHP CMS driven website built with HTML, CSS, jQuery, PHP and MySql. My role was to create the frontend using HTML, CSS and jQuery.<br/><br/>
+www.bungeetags.com
+<br/>This project was an E-commerce website built with HTML, CSS, jQuery, .NET and CS-Cart. My role was to create the frontend.<br/><br/>
+www.soundbytemgmt.com
+<br/>This project was an online music portal built with WordPress and bootstrap.<br/><br/>
+
 
 # Qualification
 B.TECH (2010) [72%]<br/>
