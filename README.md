@@ -1,4 +1,4 @@
-# Joydeep Roy - UI / UX Developer / Web Developer
+# UI / UX Developer / Web Developer - 5+ Years
 
 # Experience Summary
 Having around 4 years of experience in IT industry specializing in Web Development.<br/>
