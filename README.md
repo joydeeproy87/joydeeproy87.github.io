@@ -12,16 +12,16 @@ Possess good analytical, problem-solving skills, ability to meet deadlines and w
 Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
-Sobha Ltd, Bangalore
-Duration:  2 Years – Till Date
+Sobha Ltd, Bangalore<br/>
+Duration:  2 Years – Till Date<br/>
 July 2015 - Till Date
 
-Zyoin, Bangalore
-Duration:  2 Years
+Zyoin, Bangalore<br/>
+Duration:  2 Years<br/>
 July 2013 - July 2015
 
-Infoinsight Software Solutions, Bangalore
-Duration:  1.8 Years
+Infoinsight Software Solutions, Bangalore<br/>
+Duration:  1.8 Years<br/>
 Nov 2011 - July 2013
 
 # Project Highlights
