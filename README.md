@@ -15,7 +15,7 @@ A highly motivated team player with an ability to quickly adapt to new environme
 Possess good analytical, problem-solving skills, ability to meet deadlines and work on multiple projects.
 Enthusiastic in working with new technologies and new applications.
 
-#Professional Work Experience
+# Professional Work Experience
 Name of the Organization, Location
 Sobha Ltd, Bangalore
 Duration:  2 Years – Till Date
@@ -34,7 +34,7 @@ Duration:  1.8 Years
 From: Nov 2011
 To: July 2013
 
-#Project Highlights
+# Project Highlights
 www.cookbooth.com
 My role was to create the UI using AngularJS (version used 1.x), HTML5, CSS3, jQuery and Bootstrap.
 www.phatbuddhawear.com
@@ -48,7 +48,7 @@ This project was built with ASP.NET. My role is to create the front-end using HT
 www.zyoin.com
 This project is been created with WordPress and bootstrap. My role was to build this site end to end.
 
-#Qualification
+# Qualification
 Degree
 Institution
 Year of Completion
@@ -65,5 +65,5 @@ Madhyamgram High School,
 Madhyamgram, West Bengal
 2004
 
-#Declaration
+# Declaration
 I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
