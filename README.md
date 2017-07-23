@@ -49,7 +49,7 @@ B.TECH (2010) [72%]<br/>
 
 HSC (2006) [50%]<br/>
 
-SSC (2004) [69]<br/>
+SSC (2004) [69%]<br/>
 
 # Declaration
 I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
