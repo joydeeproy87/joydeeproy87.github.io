@@ -1,7 +1,7 @@
 # UI / UX Developer / Web Developer - 5+ Years
 
 # Experience Summary
-Having total 5.8 years of experience in web development and design industry.<br/>
+Having total of 5.8 years experience in IT industry (4 years) and Design industry (1.8 years).<br/>
 Having around 4 years of experience in web development.<br/>
 Having around 1.8 years of experience in designing industry.<br/>
 HTML5, CSS3, Sass, JavaScript, jQuery, AngularJS (1.x), ES6, Bootstrap, WordPress, PHP, MySQL, Git.<br/>
