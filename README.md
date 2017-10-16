@@ -1,8 +1,8 @@
 # UI / UX Developer / Web Developer - 5+ Years
 
 # Experience Summary
-Having total of 5.8 years experience in IT industry (4 years) and Design industry (1.8 years).<br/>
-HTML5, CSS3, Sass, JavaScript, jQuery, AngularJS (1.x), ES6, Bootstrap, WordPress, PHP, MySQL, Git.<br/>
+Having total of 5.11 years experience in IT industry (4.3 years) and Design industry (1.8 years).<br/>
+HTML5, CSS3, Sass, JavaScript, jQuery, AngularJS (1.x) (6 months), ES6, Bootstrap, WordPress, PHP, MySQL, Git.<br/>
 Search Engine Optimization (SEO), Google Analytics, Webmaster Tools.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
