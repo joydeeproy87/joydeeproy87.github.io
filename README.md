@@ -1,18 +1,18 @@
-# UI / UX Developer / Web Developer - 5+ Years
+# UI / UX Developer / Web Developer - 6+ Years
 
 # Experience Summary
-Having total of 5.11 years experience in IT industry (4.3 years) and Design industry (1.8 years).<br/>
-HTML5, CSS3, Sass, JavaScript, jQuery, AngularJS (1.x) (6 months), ES6, Bootstrap, WordPress, PHP, MySQL, Git.<br/>
-Search Engine Optimization (SEO), Google Analytics, Webmaster Tools.<br/>
+Having total of 6 years experience in IT industry (4.6 years) and Design industry (2 years).<br/>
+HTML5, CSS3, JavaScript, AngularJS(1.x), ES6, jQuery, Bootstrap, Git, Sass, Milligram, WordPress, PHP & MySQL.<br/>
+Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
-A highly motivated team player with an ability to quickly adapt to new environments and workload and delivering solutions as an individual and as part of a team.<br/>
+A highly motivated team player with an ability to quickly adapt to new environments.<br/>
 Possess good analytical, problem-solving skills, ability to meet deadlines and work on multiple projects.<br/>
 Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
 Sobha Ltd, Bangalore<br/>
-Duration:  2 Years – Till Date<br/>
+Duration:  2.8 Years – Till Date<br/>
 July 2015 - Till Date
 
 Zyoin, Bangalore<br/>
