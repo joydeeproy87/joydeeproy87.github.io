@@ -98,7 +98,7 @@
 						<tr>
 							<td>Workplace Options, Bangalore</td>
 							<td>April 2015 - Till Date</td>
-							<td>0.1 Year</td>
+							<td id="totExp"></td>
 						</tr>
 						<tr>
 							<td>Sobha Ltd, Bangalore</td>
@@ -267,14 +267,33 @@
 	</script>
 	<!-- Google Analytics end -->
 
-	<script>
-		// experience calculator to be updated
-		var dateObj = new Date();
-		var month = dateObj.getMonth() + 1; //months from 1-12
-		// var day = dateObj.getDate();
-		var year = dateObj.getFullYear();
-		console.log(month, year);
-		console.log(7, 2015);
+	<script async>
+		// // experience calculation
+		// var startMonth = 4;
+		// var startYear = 2018;
+		// var dateObj = new Date();
+		// var currentMonth = dateObj.getMonth() + 1; //months from 1-12
+		// // var day = dateObj.getDate();
+		// var currentYear = dateObj.getFullYear();
+
+		// var expMonth = ((currentYear * 12 + currentMonth) - (startYear * 12 + startMonth));
+		// // console.log(currentMonth, currentYear);
+		// // console.log(startMonth, startYear);
+		// var totExp = Math.floor(expMonth / 12) + '.' + (expMonth % 12);
+
+		// document.getElementById('totExp').innerHTML = totExp + ' Years';
+
+		// experience calculation
+		const startMonth = 4;
+		const startYear = 2018;
+		const dateObj = new Date();
+		const currentMonth = dateObj.getMonth() + 1;
+		const currentYear = dateObj.getFullYear();
+
+		const expMonth = currentYear * 12 + currentMonth - (startYear * 12 + startMonth);
+		const totExp = `${Math.floor(expMonth / 12)}.${expMonth % 12}`;
+
+		document.getElementById('totExp').innerHTML = `${totExp} Years`;
 	</script>
 </body>
 
