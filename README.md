@@ -1,4 +1,4 @@
-# UI / UX Developer / Web Developer - 6+ Years
+# UI / UX Developer / Web Developer - 7+ Years
 
 # Experience Summary
 Having total of 6 years experience in IT industry (4.6 years) and Design industry (2 years).<br/>
