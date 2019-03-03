@@ -2,7 +2,7 @@
 
 # Experience Summary
 Having total of 7+ years experience in IT industry (5+ years) and Design industry (2 years).<br/>
-HTML5, CSS3, JavaScript, Angular, ES6, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
+HTML5, CSS3, JavaScript, Angular, React, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
 Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
