@@ -2,7 +2,7 @@
 
 # Experience Summary
 Having total of 7+ years experience in IT industry (5+ years) and Design industry (2 years).<br/>
-HTML5, CSS3, JavaScript, AngularJS(1.x), Angular, ES6, jQuery, Bootstrap, Git, Sass, Milligram, WordPress, PHP & MySQL.<br/>
+HTML5, CSS3, JavaScript, Angular, ES6, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
 Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
@@ -12,7 +12,7 @@ Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
 Workplace Options, Bangalore<br/>
-Duration:  0.9 Years – Till Date<br/>
+Duration:  0.11 Years – Till Date<br/>
 April 2018 - Till Date
 
 Sobha Ltd, Bangalore<br/>
@@ -28,24 +28,14 @@ Duration:  1.8 Years<br/>
 Nov 2011 - July 2013
 
 # Project Highlights
+www.apt212.com
+<br/>This project was built with ASP.NET. My role is to create the front-end using HTML, CSS, jQuery.<br/><br/>
 www.cookbooth.com
 <br/>My role was to create the UI using AngularJS (version used 1.x), HTML5, CSS3, jQuery and Bootstrap.<br/><br/>
 www.phatbuddhawear.com
 <br/>This project was an E-commerce website built with HTML5, CSS3, Bootstrap, jQuery. My Role was to create frontend.<br/><br/>
-www.linesheetmaker.com
-<br/>This project was a web app built with PHP, MySQL, HTML, CSS, javascript, jQuery. My role was to create the complete frontend and some sections of backend as well.<br/><br/>
-www.apt212.com
-<br/>This project was built with ASP.NET. My role is to create the front-end using HTML, CSS, jQuery.<br/><br/>
-www.zyoin.com
-<br/>This project is been created with WordPress with partial usage of bootstrap. This was my previous company’s website. My role was to build this site end to end.<br/><br/>
 www.davidlernerny.com
 <br/>This project was an E-commerce website built with HTML5, CSS3, javascript, jQuery, PHP, MySql, Shopify and Bootstrap. My role was to create the frontend.<br/><br/>
-www.speechzonenyc.com
-<br/>This project was a core PHP CMS driven website built with HTML, CSS, jQuery, PHP and MySql. My role was to create the frontend using HTML, CSS and jQuery.<br/><br/>
-www.bungeetags.com
-<br/>This project was an E-commerce website built with HTML, CSS, jQuery, .NET and CS-Cart. My role was to create the frontend.<br/><br/>
-www.soundbytemgmt.com
-<br/>This project was an online music portal built with WordPress and bootstrap.<br/><br/>
 
 
 # Qualification
