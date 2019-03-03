@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  color: #000000;
+}
+
+.table tr:first-child td {
+  border-top: 0;
+}
+
+.table tr:last-child td {
+  border-bottom: 1px solid #dee2e6;
+}
