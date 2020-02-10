@@ -34,8 +34,6 @@ www.cookbooth.com
 <br/>My role was to create the UI using AngularJS (version used 1.x), HTML5, CSS3, jQuery and Bootstrap.<br/><br/>
 www.phatbuddhawear.com
 <br/>Created the front-end of this E-commerce based website using HTML5, CSS3, Bootstrap and jQuery.<br/><br/>
-www.davidlernerny.com
-<br/>reated this E-commerce website using PHP, MySql, HTML5, CSS3, javascript, jQuery and Bootstrap.<br/><br/>
 
 
 # Qualification
