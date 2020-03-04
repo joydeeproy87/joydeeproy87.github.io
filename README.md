@@ -12,7 +12,7 @@ Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
 Workplace Options, Bangalore<br/>
-Duration:  1.1 Years – Till Date<br/>
+Duration:  1.11 Years – Till Date<br/>
 April 2018 - Till Date
 
 Sobha Ltd, Bangalore<br/>
