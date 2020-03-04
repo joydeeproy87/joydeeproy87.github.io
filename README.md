@@ -16,7 +16,7 @@ Duration:  1.11 Years – Till Date<br/>
 April 2018 - Till Date
 
 Sobha Ltd, Bangalore<br/>
-Duration:  2.9 Years – Till Date<br/>
+Duration:  2.9 Years<br/>
 July 2015 - April 2018
 
 Zyoin, Bangalore<br/>
