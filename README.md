@@ -1,7 +1,7 @@
-# UI / UX Developer / Web Developer - 8+ Years
+# UI / UX Developer / Web Developer - 9+ Years
 
 # Experience Summary
-Having total of 8+ years experience in IT industry (6+ years) and Design industry (2 years).<br/>
+Having total of 9+ years experience in IT industry (7+ years) and Design industry (2 years).<br/>
 HTML5, CSS3, JavaScript, Angular, React, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
 Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
@@ -12,7 +12,7 @@ Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
 Workplace Options, Bangalore<br/>
-Duration:  1.11 Years – Till Date<br/>
+Duration:  2.8 Years – Till Date<br/>
 April 2018 - Till Date
 
 Sobha Ltd, Bangalore<br/>
