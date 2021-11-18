@@ -1,4 +1,4 @@
-# UI / UX Developer / Web Developer - 8+ Years
+# UI / UX Developer / Web Developer - 9+ Years
 
 # Experience Summary
 Having 8+ years experience in IT industry.<br/>
@@ -22,6 +22,10 @@ July 2015 - April 2018
 Zyoin, Bangalore<br/>
 Duration:  2 Years<br/>
 July 2013 - July 2015
+
+Infoinsight Software Solutions, Bangalore<br/>
+Duration:  1.8 Years<br/>
+Nov 2011 - July 2013
 
 
 # Project Highlights
