@@ -1,4 +1,4 @@
-# UI / UX Developer / Web Developer - 9+ Years
+# UI / UX Developer / Web Developer - 8+ Years
 
 # Experience Summary
 Having 8+ years experience in IT industry.<br/>
