@@ -12,7 +12,7 @@ Enthusiastic in working with new technologies and new applications.<br/>
 
 # Professional Work Experience
 Workplace Options, Bangalore<br/>
-Duration:  2.8 Years – Till Date<br/>
+Duration:  4 Years – Till Date<br/>
 April 2018 - Till Date
 
 Sobha Ltd, Bangalore<br/>
@@ -29,8 +29,10 @@ Nov 2011 - July 2013
 
 
 # Project Highlights
+www.workplaceoptions.com
+<br/>This project was built with WordPress. My role was to create the site end to end. From selecting the design agency and finalizing the design to creating the theme to build the backend and frontend.<br/><br/>
 www.apt212.com
-<br/>This project was built with ASP.NET. My role is to create the front-end using HTML, CSS, jQuery.<br/><br/>
+<br/>This project was built with ASP.NET. My role was to create the front-end using HTML, CSS, jQuery.<br/><br/>
 www.cookbooth.com
 <br/>My role was to create the UI using AngularJS (version used 1.x), HTML5, CSS3, jQuery and Bootstrap.<br/><br/>
 www.phatbuddhawear.com
