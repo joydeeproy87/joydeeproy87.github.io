@@ -2,7 +2,7 @@
 
 # Experience Summary
 Having 11+ years experience in IT industry.<br/>
-HTML5, CSS3, JavaScript, Angular, React, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
+React | JavaScript | Azure | HTML5 | CSS3 | WordPress | PHP | MySQL | Git | Full Stack Developer<br/>
 Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
 Excellent analytical and problem-solving skills.<br/>
