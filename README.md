@@ -1,7 +1,7 @@
-# UI / UX Developer / Web Developer - 10+ Years
+# UI / UX Developer / Web Developer - 11+ Years
 
 # Experience Summary
-Having 10+ years experience in IT industry.<br/>
+Having 11+ years experience in IT industry.<br/>
 HTML5, CSS3, JavaScript, Angular, React, jQuery, Bootstrap, Git, WordPress, PHP & MySQL.<br/>
 Search Engine Optimization (SEO), Google Analytics, Google Search Console.<br/>
 Adobe Creative Suite (Illustrator, Photoshop, Fireworks, Premiere Pro, InDesign).<br/>
